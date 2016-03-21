@@ -1,4 +1,4 @@
--[command] + <command suffix>
+-[command] + command suffi
 
 about: Tells you about the bot
 
